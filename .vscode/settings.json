@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.scss": "html",
+        "*.html": "html",
+        "iostream": "cpp"
+    }
+}
